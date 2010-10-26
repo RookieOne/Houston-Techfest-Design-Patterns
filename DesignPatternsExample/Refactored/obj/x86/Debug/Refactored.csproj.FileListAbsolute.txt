@@ -1,0 +1,7 @@
+C:\Users\Jonathan Birkholz\Documents\Presentations\techfest_design_patterns\DesignPatternsExample\Refactored\bin\Debug\Refactored.exe
+C:\Users\Jonathan Birkholz\Documents\Presentations\techfest_design_patterns\DesignPatternsExample\Refactored\bin\Debug\Refactored.pdb
+C:\Users\Jonathan Birkholz\Documents\Presentations\techfest_design_patterns\DesignPatternsExample\Refactored\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan Birkholz\Documents\Presentations\techfest_design_patterns\DesignPatternsExample\Refactored\obj\x86\Debug\Refactored.exe
+C:\Users\Jonathan Birkholz\Documents\Presentations\techfest_design_patterns\DesignPatternsExample\Refactored\obj\x86\Debug\Refactored.pdb
+Z:\Presentations\techfest_design_paterns\DesignPatternsExample\Refactored\obj\x86\Debug\Refactored.exe
+Z:\Presentations\techfest_design_paterns\DesignPatternsExample\Refactored\obj\x86\Debug\Refactored.pdb

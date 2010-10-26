@@ -1,0 +1,10 @@
+C:\Users\Jonathan Birkholz\Documents\Presentations\techfest_design_patterns\DesignPatternsExample\Original\bin\Debug\Original.exe
+C:\Users\Jonathan Birkholz\Documents\Presentations\techfest_design_patterns\DesignPatternsExample\Original\bin\Debug\Original.pdb
+C:\Users\Jonathan Birkholz\Documents\Presentations\techfest_design_patterns\DesignPatternsExample\Original\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan Birkholz\Documents\Presentations\techfest_design_patterns\DesignPatternsExample\Original\obj\x86\Debug\Original.exe
+C:\Users\Jonathan Birkholz\Documents\Presentations\techfest_design_patterns\DesignPatternsExample\Original\obj\x86\Debug\Original.pdb
+Z:\Presentations\techfest_design_paterns\DesignPatternsExample\Original\obj\x86\Debug\Original.exe
+Z:\Presentations\techfest_design_paterns\DesignPatternsExample\Original\obj\x86\Debug\Original.pdb
+Z:\Presentations\techfest_design_paterns\DesignPatternsExample\Original\bin\Debug\Original.exe
+Z:\Presentations\techfest_design_paterns\DesignPatternsExample\Original\bin\Debug\Original.pdb
+Z:\Presentations\techfest_design_paterns\DesignPatternsExample\Original\obj\x86\Debug\ResolveAssemblyReference.cache

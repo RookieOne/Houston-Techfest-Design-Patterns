@@ -1,0 +1,248 @@
+cash register example
+
+products that we scan :skus
+credit 
+
+card service, cash payment : diff payment types
+scan item, 
+
+have running total, also be printing the receipt...
+coupons
+commands : related to printing
+
+patterns:
+	adapter
+	commands
+	composite
+	strategy
+	factory
+	observer
+	facade
+	proxy
+	--- bonus
+	state_machine
+
+product
+	:sku
+	:name
+	:price
+
+cash_register (states => :new, :ongoing, :awaiting_payment)
+		<checkout_products>
+	:enter_sku(sku)
+	:check_out => total_to_pay
+	:pay(cash) => receipt
+	
+receipt
+	:print
+	
+describe cash_register
+	when enter_sku sku	
+		look up sku and get product
+		if product.not_found?
+			display invalid sku / product no found
+		else
+			add product to checkout_products
+	
+	when check_out
+		checkout_products.price.sum = total_pre_tax
+		total = calculate_tax(total_pre_tax) + total_pre_tax
+	
+describe receipt
+	when print
+		name of store
+			date
+			each item
+			total_pre_tax
+			tax
+			total
+
+1) Integrate Scanner
+	bad: add scan to 
+
+cash_register
+		:scan(item)
+			
+	
+when scan an item
+	if sku can not be read
+		display bad scan msg
+	else
+		enter_sku(sku)
+			
+	bad_pain: we had to add a method to cash register. and the code is ugly.
+	
+	refactor => observer
+		IProvideSkus + IConsumeSkus -> Observer
+	
+	explain_pattern
+		
+	refactor_again => Events
+	refactor_again_3_5 => Action
+	
+2) New Different Types of Scanners
+	we have 1 type of scanner, then we get more with diff brand
+		hp scanner
+		walmart scanner
+		
+	show => adapter
+	
+	explain_pattern
+
+3) Opening stores in new states 
+	bad: switch / case with lots of diff code in case blocks
+	
+	refactor => strategy
+	
+	explain_pattern
+	
+	still_bad : still have case (or if else)
+	
+	refactor => factory
+	
+	explain_pattern
+	
+	refactor_again => strategy => func x => y
+	refactor_again => factory => dictionary of funcs
+		
+4) Credit Card Payment
+	bad: put in cc code in 
+
+cash_register
+	
+	refactor => strategy, factory
+		
+
+IPaymentMethod
+			:charge(amount)
+		
+	
+
+bad_still: cc_strategy is very complex 
+	
+	refactor 
+
+=> facade ~proxy
+		card
+			
+
+name
+			number
+		
+
+ICreditCardGateway
+			:charge(card, 
+
+amount)
+	
+5) New Machine Vendors
+	.... commands, state
+		
+		
+4.5) Cancel Item
+		bad: 
+
+cancel_item method on cash_register. its bad because 
+
+again we have to edit cash register for changes
+		
+	
+
+	refactor => commands [:add,:remove]
+			
+		
+5) Add Coupons
+	coupon
+		sku
+		
+
+product_sku
+	
+	two_types
+		a) 
+
+discount - 10% off
+			discount_amount = 
+
+.10
+			
+		b) 
+
+number_discount - buy 1, get 1 half priced
+			
+
+discount_amount = .5
+			discounted_count 
+
+= 2 so 1 is full price, 2 is .5 discount
+			
+
+ie... 
+			discounted_count = 4 => 1,2,3 is 
+
+full price, 4 is .5 discount
+
+	should change total
+	
+	
+
+??? what pattern?
+	
+6) Print Coupon Changes
+
+	should 
+
+change printed receipt
+		should show discount on 
+
+line item
+		should total all discounts at 
+
+bottom in a .. you saved x amount
+		
+	
+
+bad: complex boolean logic
+
+third_change: print customer 
+
+specific coupons upon checkout
+
+	identify products with 
+
+coupons, print first 3 coupons
+	
+
+
+
+Print Receipt :
+	commands, 
+
+composite
+	
+	:commands
+		
+
+print_line(str)
+		line_break
+		print
+
+(str)
+		composites
+			
+
+print_product
+			print_discount
+			
+
+print_total
+				print_pre_tax
+		
+
+		print_tax
+				
+
+print_total
+				..... <- 
+
+print_you_saved

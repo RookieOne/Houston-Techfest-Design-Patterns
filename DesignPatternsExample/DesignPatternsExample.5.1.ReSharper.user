@@ -1,0 +1,448 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:TaxStrategies/f:DefaultTaxCalculator.cs" caret="219" fromTop="7" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:TaxStrategies/f:OklahomaTaxCalculator.cs" caret="224" fromTop="7" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:TaxStrategies/f:TexasTaxCalculator.cs" caret="159" fromTop="5" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:TaxStrategies/f:LousianaTaxCalculator.cs" caret="215" fromTop="7" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:Commands/f:ICommand.cs" caret="119" fromTop="4" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:TaxStrategies/f:ICalculateTax.cs" caret="0" fromTop="0" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:Commands/f:EnterSkuCommand.cs" caret="225" fromTop="5" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:TaxStrategies/f:TaxCalculatorFactory.cs" caret="522" fromTop="13" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:Commands/f:ChangeStateCommand.cs" caret="353" fromTop="14" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:Commands/f:CheckoutCommand.cs" caret="0" fromTop="0" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:Facades/f:DisplayOptions.cs" caret="460" fromTop="12" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:Scanners/f:HandScanner.cs" caret="429" fromTop="15" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:CreditCardService.cs" caret="328" fromTop="10" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/f:Program.cs" caret="0" fromTop="0" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:Commands/f:ScannerCommand.cs" caret="206" fromTop="7" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/f:CheckoutTotal.cs" caret="303" fromTop="5" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:Scanners/f:IScanner.cs" caret="193" fromTop="8" />
+      <File id="65345ECC-925A-4599-851C-B3FC9F5DBDA2/d:Scanners/f:NormalScanner.cs" caret="92" fromTop="3" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Receipt.cs" caret="632" fromTop="3" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:ICommand.cs" caret="191" fromTop="9" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:CheckoutCommand.cs" caret="446" fromTop="0" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:DisplayOptions.cs" caret="885" fromTop="8" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:CashRegister.cs" caret="1649" fromTop="8" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:EnterSkuCommand.cs" caret="534" fromTop="1" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:ScanCommand.cs" caret="290" fromTop="7" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Scanner.cs" caret="522" fromTop="5" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Program.cs" caret="425" fromTop="7" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:WalmartScanner.cs" caret="654" fromTop="12" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:ITaxCalculator.cs" caret="252" fromTop="8" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:CheckoutTotal.cs" caret="918" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:CheckoutCommand.cs" caret="82" fromTop="3" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:CheckoutCommand.cs" caret="1633" fromTop="8" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Program.cs" caret="766" fromTop="0" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:CheckoutCommand.cs" caret="446" fromTop="0" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:DisplayOptions.cs" caret="1144" fromTop="15" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:DisplayOptions.cs" caret="885" fromTop="8" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Scanner.cs" caret="522" fromTop="12" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Scanner.cs" caret="522" fromTop="14" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:CashRegister.cs" caret="139" fromTop="5" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:CashRegister.cs" caret="1647" fromTop="8" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Scanner.cs" caret="205" fromTop="8" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Scanner.cs" caret="590" fromTop="7" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Scanner.cs" caret="949" fromTop="11" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:EnterSkuCommand.cs" caret="537" fromTop="1" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:ScanCommand.cs" caret="481" fromTop="16" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:ScanCommand.cs" caret="299" fromTop="7" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:WalmartScanner.cs" caret="668" fromTop="10" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:WalmartScanner.cs" caret="268" fromTop="10" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Scanner.cs" caret="427" fromTop="4" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Scanner.cs" caret="545" fromTop="9" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:WalmartScanner.cs" caret="150" fromTop="6" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:WalmartScanner.cs" caret="473" fromTop="6" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:Program.cs" caret="341" fromTop="5" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:WalmartScanner.cs" caret="627" fromTop="11" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:CheckoutTotal.cs" caret="787" fromTop="4" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:ITaxCalculator.cs" caret="269" fromTop="11" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:ITaxCalculator.cs" caret="659" fromTop="11" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:ITaxCalculator.cs" caret="735" fromTop="9" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:ITaxCalculator.cs" caret="960" fromTop="11" />
+      <File id="B37072E3-DA97-4A45-883D-3E0D113B3D06/f:CheckoutTotal.cs" caret="864" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.2\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="79" />
+      <Item value="string" priority="37" />
+      <Item value="decimal" priority="23" />
+      <Item value="Product`0" priority="6" />
+      <Item value="return" priority="27" />
+      <Item value="null" priority="2" />
+      <Item value="void" priority="34" />
+      <Item value="static" priority="5" />
+      <Item value="List" priority="3" />
+      <Item value="new" priority="66" />
+      <Item value="List&lt;Product&gt;" priority="1" />
+      <Item value="Product" priority="2" />
+      <Item value="_products" priority="1" />
+      <Item value="p" priority="1" />
+      <Item value="var" priority="38" />
+      <Item value="Products`0" priority="0" />
+      <Item value="if" priority="8" />
+      <Item value="product" priority="3" />
+      <Item value="else" priority="1" />
+      <Item value="CashRegister`0" priority="12" />
+      <Item value="_checkout_products" priority="4" />
+      <Item value="_total_pre_tax" priority="3" />
+      <Item value="_tax" priority="0" />
+      <Item value="_total" priority="8" />
+      <Item value="out" priority="2" />
+      <Item value="Receipt`0" priority="2" />
+      <Item value="Total`0" priority="0" />
+      <Item value="Tax" priority="9" />
+      <Item value="PreTaxTotal" priority="11" />
+      <Item value="Total" priority="0" />
+      <Item value="CheckoutTotal`0" priority="5" />
+      <Item value="Receipt" priority="1" />
+      <Item value="CheckoutTotal" priority="1" />
+      <Item value="preTaxTotal" priority="1" />
+      <Item value="change" priority="3" />
+      <Item value="cash" priority="0" />
+      <Item value="register" priority="21" />
+      <Item value="total" priority="6" />
+      <Item value="Console`0" priority="47" />
+      <Item value="printTotal`0" priority="1" />
+      <Item value="receipt" priority="2" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="foreach" priority="5" />
+      <Item value="in" priority="6" />
+      <Item value="interface" priority="8" />
+      <Item value="Scanner`0" priority="4" />
+      <Item value="_register" priority="1" />
+      <Item value="scanner" priority="8" />
+      <Item value="amountOwed`0" priority="0" />
+      <Item value="printChange`0" priority="0" />
+      <Item value="WithScanner`0" priority="0" />
+      <Item value="SkuEventArgs`0" priority="7" />
+      <Item value="EventHandler" priority="3" />
+      <Item value="SkuScannedEvent" priority="4" />
+      <Item value="this" priority="4" />
+      <Item value="SkuEventArgs" priority="3" />
+      <Item value="IProduceSkus`0" priority="0" />
+      <Item value="IConsumeSkus`0" priority="5" />
+      <Item value="_observer" priority="0" />
+      <Item value="EnterSku`0" priority="1" />
+      <Item value="sku" priority="2" />
+      <Item value="_observers" priority="4" />
+      <Item value="observer" priority="2" />
+      <Item value="List&lt;IConsumeSkus&gt;" priority="2" />
+      <Item value="class" priority="6" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="args" priority="1" />
+      <Item value="Action`0" priority="1" />
+      <Item value="ScannerWithAction`0" priority="1" />
+      <Item value="List&lt;Action&gt;" priority="0" />
+      <Item value="switch" priority="2" />
+      <Item value="case" priority="7" />
+      <Item value="default" priority="0" />
+      <Item value="break" priority="7" />
+      <Item value="amountToTax" priority="0" />
+      <Item value="_state" priority="2" />
+      <Item value="base" priority="1" />
+      <Item value="EnvironmentVariableTarget`0" priority="1" />
+      <Item value="do" priority="0" />
+      <Item value="while" priority="2" />
+      <Item value="option" priority="6" />
+      <Item value="bool" priority="2" />
+      <Item value="false" priority="7" />
+      <Item value="true" priority="5" />
+      <Item value="contCheckout" priority="4" />
+      <Item value="WithDifferentStates`0" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="GetPayment`0" priority="1" />
+      <Item value="paymentChoice" priority="0" />
+      <Item value="CreditCard`0" priority="2" />
+      <Item value="creditCard" priority="2" />
+      <Item value="CreditCardService`0" priority="0" />
+      <Item value="_creditCardService" priority="1" />
+      <Item value="CreditCardService" priority="0" />
+      <Item value="Main`0" priority="1" />
+      <Item value="name" priority="0" />
+      <Item value="number" priority="0" />
+      <Item value="card" priority="0" />
+      <Item value="Dictionary&lt;string,IRegisterCommand&gt;" priority="1" />
+      <Item value="commands" priority="7" />
+      <Item value="IRegisterCommand`0" priority="10" />
+      <Item value="command" priority="10" />
+      <Item value="DisplayOptionsCommand`0" priority="1" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="EnterSkuCommand`0" priority="5" />
+      <Item value="CheckoutCommand`0" priority="4" />
+      <Item value="for" priority="0" />
+      <Item value="int" priority="7" />
+      <Item value="_commands" priority="6" />
+      <Item value="i" priority="1" />
+      <Item value="KeyValuePair" priority="0" />
+      <Item value="Dictionary&lt;int,IRegisterCommand&gt;" priority="0" />
+      <Item value="Tuple`0" priority="0" />
+      <Item value="Tuple&lt;string,IRegisterCommand&gt;" priority="0" />
+      <Item value="t" priority="0" />
+      <Item value="_choices" priority="8" />
+      <Item value="Choice" priority="0" />
+      <Item value="Choice`0" priority="3" />
+      <Item value="StartCheckoutCommand`0" priority="0" />
+      <Item value="display" priority="2" />
+      <Item value="paymentDisplay" priority="1" />
+      <Item value="PayWithCashCommand`0" priority="1" />
+      <Item value="cashRegister" priority="2" />
+      <Item value="_cashRegister" priority="1" />
+      <Item value="ScannerCommand`0" priority="1" />
+      <Item value="ScannerWithAction" priority="0" />
+      <Item value="_scanner" priority="0" />
+      <Item value="IScanner`0" priority="2" />
+      <Item value="ICalculateTax`0" priority="5" />
+      <Item value="ITaxCalculatorFactory`0" priority="1" />
+      <Item value="TaxCalculatorFactory`0" priority="0" />
+      <Item value="Dictionary" priority="1" />
+      <Item value="_calculators" priority="4" />
+      <Item value="TexasTaxCalculator`0" priority="0" />
+      <Item value="LousianaTaxCalculator`0" priority="0" />
+      <Item value="OklahomaTaxCalculator`0" priority="0" />
+      <Item value="state" priority="1" />
+      <Item value="DefaultTaxCalculator`0" priority="0" />
+      <Item value="calculatorFactory" priority="0" />
+      <Item value="TaxCalculatorFactory" priority="0" />
+      <Item value="_calculatorFactory" priority="0" />
+      <Item value="ICommand`0" priority="7" />
+      <Item value="ChangeStateCommand`0" priority="1" />
+      <Item value="NormalScanner`0" priority="0" />
+      <Item value="Dictionary&lt;string,ICalculateTax&gt;" priority="0" />
+      <Item value="ScanCommand`0" priority="2" />
+      <Item value="abstract" priority="1" />
+      <Item value="DisplayOptions`0" priority="2" />
+      <Item value="List&lt;Choice&gt;" priority="0" />
+      <Item value="choice" priority="1" />
+      <Item value="c" priority="0" />
+      <Item value="text" priority="0" />
+      <Item value="displayOptions" priority="3" />
+      <Item value="Lazy" priority="0" />
+      <Item value="_consumers" priority="3" />
+      <Item value="consumer" priority="1" />
+      <Item value="WalmartAdapter`0" priority="1" />
+      <Item value="WalmartScanner`0" priority="0" />
+      <Item value="Scanner" priority="0" />
+      <Item value="WalmartScanner" priority="0" />
+      <Item value="ITaxCalculator`0" priority="2" />
+      <Item value="pretaxtotal" priority="2" />
+      <Item value="LousianaCalculator" priority="0" />
+      <Item value="OklahomaCalculator" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.Product">
+      <Item value="Sku" priority="0" />
+      <Item value="Price" priority="1" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Original.Products">
+      <Item value="Find`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="5" />
+      <Item value="Find`0" priority="0" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="Count" priority="1" />
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.CheckoutTotal">
+      <Item value="Total" priority="6" />
+      <Item value="PreTaxTotal" priority="1" />
+      <Item value="Tax" priority="1" />
+      <Item value="Calculate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.CashRegister">
+      <Item value="EnterSku`0" priority="5" />
+      <Item value="CheckOut`0" priority="1" />
+      <Item value="Pay`0" priority="1" />
+      <Item value="PayWithCreditCard`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="37" />
+      <Item value="ReadLine`0" priority="8" />
+      <Item value="Read`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.Receipt">
+      <Item value="Print`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Today" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.Scanner">
+      <Item value="Scan`0" priority="3" />
+      <Item value="AddConsumer`0" priority="0" />
+      <Item value="SkuScannedEvent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.IConsumeSkus">
+      <Item value="ConsumeSku`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.Scanner">
+      <Item value="AddObserver`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.ScannerWithEvent">
+      <Item value="SkuScannedEvent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.CashRegister">
+      <Item value="EnterSku`0" priority="1" />
+      <Item value="CheckOut`0" priority="0" />
+      <Item value="SetState`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.SkuEventArgs">
+      <Item value="Sku" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.ScannerWithAction">
+      <Item value="AddObserver`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.StateCashRegister">
+      <Item value="CheckOutWithState`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.CheckoutTotalWithTaxes">
+      <Item value="PreTaxTotal" priority="0" />
+      <Item value="Total" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDecimal`0" priority="0" />
+      <Item value="ToInt16`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.CheckoutTotal">
+      <Item value="Total" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.CreditCard">
+      <Item value="Name" priority="0" />
+      <Item value="Number" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.CreditCardService">
+      <Item value="Process`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.EventHandler`1">
+      <Item value="Combine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="6" />
+      <Item value="SelectMany`3" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="ContainsKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.Commands.IRegisterCommand">
+      <Item value="GetText`0" priority="0" />
+      <Item value="Execute`0" priority="1" />
+      <Item value="ShouldContinue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.Commands.DisplayOptionsCommand">
+      <Item value="Execute`0" priority="0" />
+      <Item value="AddChoice`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ElementAt`1" priority="0" />
+      <Item value="SelectMany`3" priority="0" />
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Tuple`2">
+      <Item value="Item1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Tuple`3">
+      <Item value="Item1" priority="1" />
+      <Item value="Item3" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.Commands.Choice">
+      <Item value="Option" priority="1" />
+      <Item value="Text" priority="0" />
+      <Item value="Command" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.Commands.StartCheckoutCommand">
+      <Item value="Execute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.Facades.DisplayOptions">
+      <Item value="Display`0" priority="0" />
+      <Item value="AddChoice`0" priority="2" />
+      <Item value="MakeChoice`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.Commands.ICommand">
+      <Item value="GetText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.Scanners.IConsumeSkus">
+      <Item value="ConsumeSku`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.Scanners.IScanner">
+      <Item value="Scan`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.TaxStrategies.ITaxCalculatorFactory">
+      <Item value="GetTaxCalculator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.TaxStrategies.ICalculateTax">
+      <Item value="CalculateTax`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Refactored.Scanners.NormalScanner">
+      <Item value="AddObserver`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.EnterSkuCommand">
+      <Item value="Execute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.ScanCommand">
+      <Item value="Execute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.CheckoutCommand">
+      <Item value="Execute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.Choice">
+      <Item value="Num" priority="1" />
+      <Item value="Text" priority="0" />
+      <Item value="Command" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.ICommand">
+      <Item value="ShouldContinue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.DisplayOptions">
+      <Item value="AddChoice`0" priority="3" />
+      <Item value="MakeChoice`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.IConsumeSkus">
+      <Item value="SkuScanned`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.SkuEventArgs">
+      <Item value="Sku" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.WalmartScanner">
+      <Item value="SuperCoolScan`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.TexasCalculator">
+      <Item value="CalculateTax`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.LousianaCalculator">
+      <Item value="CalculateTax`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Original.OklahomaCalculator">
+      <Item value="CalculateTax`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
